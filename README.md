@@ -1,4 +1,4 @@
-# WEATHER ORECASTING APP
+# WEATHER FORECASTING APP
 
    ## By Pauline Gitonga
 
@@ -15,7 +15,7 @@
 
 ## Description
 
- <p>This project is a web application for predicting the current eather in any city.</p>
+ <p>This project is a web application for predicting the current weather in any city.</p>
 
 ## Features
 
@@ -43,7 +43,7 @@ As a user of the application,you will be able to :
 
 * CSS - which was used to style the User Interface.
 
-* JS - which as used to build the actual workings o the app
+* JS - which as used to create dynamic and interactive web content
 
 MIT License
 
