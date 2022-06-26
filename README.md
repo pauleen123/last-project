@@ -18,14 +18,13 @@
 
 ## Description
 
- <p>This project is a web application for Moringa School that shows details about the services it offers, has information about the school, an enroll that enables users to start and application to join the school.</p>
+ <p>This project is a web application for predicting the current eather in any city.</p>
 
 ## Features
 
 As a user of the application,you will be able to :
 
-1. See a description of technical mentors at the school
-1. Can make an application through enroll button
+1. See a description of the current eather in the city they ant
 
  ###  Requirements
 
