@@ -1,6 +1,7 @@
 let weather = {
     //my key
     apiKey: "3730aa5230c60b19f4bca5497fc34b85",
+    //getting the details rom the api
     fetchWeather: function (city) {
       fetch(
         "https://api.openweathermap.org/data/2.5/weather?q=" +
@@ -8,6 +9,7 @@ let weather = {
           "&units=metric&appid=" +
           this.apiKey
       )
+      //displaying the data
         .then((response) => {
           if (!response.ok) {
             alert("No weather found.");
