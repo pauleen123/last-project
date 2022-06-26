@@ -28,21 +28,21 @@ As a user of the application,you will be able to :
 
  ###  Requirements
 
- * Access to  a computer or any other garget
+ * Access to  a computer
 
  * Access to internet
 
 ### Installation Process
 
  ****  
-* Clone to the repo : git clone https://github.com/NewtonOmbese/Moringa-School_Landing_Page.git
+* Clone to the repo : git clone git@github.com:pauleen123/last-project.git
 
 * Unzip the downloaded files in a folder of choice.
 
 * Open the index file from the zipped file with any browser.
 
 ### Technology  Used
-* HTML - which was used to develope the structure off the pages.
+* HTML - which was used to develope the structure of the pages.
 
 * CSS - which was used to style the User Interface.
 
