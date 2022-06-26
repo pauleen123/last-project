@@ -46,9 +46,11 @@ As a user of the application,you will be able to :
 
 * CSS - which was used to style the User Interface.
 
+* JS - hich as used to build the actual orkings o the app
+
 MIT License
 
-Copyright (c) [2022] [Newton Ombese]
+Copyright (c) [2022] [Pauline Gitonga]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -70,7 +72,7 @@ SOFTWARE.
 
 ## Authors Info
 
-LinkedIn - [Newton Ombese](https://www.linkedin.com/in/newton-ombese-570862210/)
+Gmail- paugitonga6@gmail.com [Pauline Gitonga]
 
 
 # ENJOY
