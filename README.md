@@ -1,9 +1,6 @@
-# EATHER ORECASTING APP
+# WEATHER ORECASTING APP
 
    ## By Pauline Gitonga
-
-## Screenshot
-   ![image](./assets/images/screenshot.png)
 
 ## Table of Contents
 
@@ -24,7 +21,7 @@
 
 As a user of the application,you will be able to :
 
-1. See a description of the current eather in the city they ant
+1. See a description of the current weather in the city they want
 
  ###  Requirements
 
@@ -42,11 +39,11 @@ As a user of the application,you will be able to :
 * Open the index file from the zipped file with any browser.
 
 ### Technology  Used
-* HTML - which was used to develope the structure of the pages.
+* HTML - which was used to develop the structure of the pages.
 
 * CSS - which was used to style the User Interface.
 
-* JS - hich as used to build the actual orkings o the app
+* JS - which as used to build the actual workings o the app
 
 MIT License
 
