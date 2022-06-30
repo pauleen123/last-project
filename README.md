@@ -8,14 +8,15 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation Process](#installation-Process)
-- [Live link](#Live-Link)
+- [Live link](https://pauleen123.github.io/weather-app.github.io/)
 - [Technology Used](#technology-Used)
 - [Licence](#licence)
 - [Authors Info](#Authors-info)
 
 ## Description
 
- <p>This project is a web application for predicting the current weather in any city.</p>
+ <p>This project is a web application for predicting the current weather in any city.
+ </p>
 
 ## Features
 
@@ -32,7 +33,7 @@ As a user of the application,you will be able to :
 ### Installation Process
 
  ****  
-* Clone to the repo : git clone git@github.com:pauleen123/last-project.git
+* Clone to the repo : git clone https://github.com/pauleen123/last-project
 
 * Unzip the downloaded files in a folder of choice.
 
