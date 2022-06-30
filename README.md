@@ -33,7 +33,7 @@ As a user of the application,you will be able to :
 ### Installation Process
 
  ****  
-* Clone to the repo : git clone https://github.com/pauleen123/last-project
+* Clone to the repo : git clone https://github.com/pauleen123/weather-app.github.io.git
 
 * Unzip the downloaded files in a folder of choice.
 
